@@ -1,9 +1,5 @@
 ## About Me 👋
 
-**saisha-mae/saisha-mae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... a project investigating age differences in categorization strategies and episodic memory abilities
 - 🌱 I’m currently learning ... how to use Github & more
 - 👯 I’m looking to collaborate on ... maybe some things in the future
